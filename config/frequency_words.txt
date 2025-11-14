@@ -1,8 +1,5 @@
 DeepSeek
 
-特斯拉
-马斯克
-
 微软
 Microsoft
 
@@ -19,11 +16,13 @@ deepmind
 chatgpt
 openai
 sora
+codex
 
 claude
 Anthropic
 
 cursor
+CLI
 
 ai
 !gai
