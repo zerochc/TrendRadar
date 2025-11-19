@@ -1,4 +1,6 @@
 DeepSeek
+deepseek
+grok
 
 微软
 Microsoft
@@ -26,8 +28,10 @@ CLI
 
 ai
 !gai
+!plain
 人工智能
 深度学习
 
 亚马逊
 Amazon
+
